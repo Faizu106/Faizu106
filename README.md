@@ -1,6 +1,6 @@
 <p align="center">
-  <span style="font-size: 100px; font-weight: bold; color: #00ff99;">SHAH FAISAL</span><br>
-  <span style="font-size: 28px; color: #00ffff;">Jr. Cybersecurity Analyst | Ethical Hacker | Tech Explorer</span>
+  <span style="font-size: 1000px; font-weight: bold; color: #00ff99;">SHAH FAISAL</span><br>
+  <span style="font-size: 5008px; color: #00ffff;">Jr. Cybersecurity Analyst | Ethical Hacker | Tech Explorer</span>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">💼 Experience</h2>
+<h2 align="center"> Experience</h2>
 <div align="center">
   <p align="justify" style="max-width: 750px; font-family: 'Courier New', monospace; color: #00ff99;">
 Network Security Analyst Intern – Redynox Security (Remote) <br>
