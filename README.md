@@ -1,71 +1,75 @@
-# 👾 Shah Faisal
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/100/00ff00/hacker.png" alt="Hacker Icon"/>
+</p>
 
-### Jr. Cybersecurity Analyst | Ethical Hacker | Tech Explorer
+<h1 align="center">👾 Shah Faisal</h1>
+<h3 align="center">Jr. Cybersecurity Analyst | Ethical Hacker | Tech Explorer</h3>
 
----
-
-💬 **About Me**  
-I’m a **self-motivated cybersecurity enthusiast** 🔐 with a passion for **ethical hacking, networking, Linux (Kali & Parrot), and programming**.  
-I love **digging into systems, finding vulnerabilities, and building hands-on skills** through labs and real-world simulations.  
-
----
-
-## ⚡ Skills & Tools
-
-### 💻 Operating Systems & Virtualization
-`Kali Linux` • `Parrot OS` • `VirtualBox` • `VMware`
-
-### 🌐 Networking & Protocols
-`CCNA Basics` • `Cisco Packet Tracer` • `IP/TCP/UDP`
-
-### 🛡 Cybersecurity & Forensics
-`Wireshark` • `NMAP` • `Burp Suite` • `OSINT Tools`  
-`Digital Forensics` • `Memory Analysis` • `Web & Endpoint Security`
-
-### 🖥 Programming & Web
-`Python` • `C` • `SQL` • `Bash` • `HTML` • `CSS` • `JS`
-
-### 🤝 Soft Skills
-`Problem Solving` • `Research` • `Independent Learning` • `Leadership`  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ShahFaisalsec">LinkedIn</a> • 
+  <a href="mailto:4645faizu@gmail.com">Email</a> • 
+  <a href="#">Portfolio</a>
+</p>
 
 ---
 
-## 🎓 Education
-- **B.S in Computer Science** – University of Peshawar (09/2024 – Present)  
-- **Intermediate in Computer Science** – Superior Group of Colleges (08/2022 – 08/2024)  
-- **Matriculation (Science Group)** – Oxford Grammar School (04/2020 – 04/2022)  
+<p align="center">💬 <b>About Me</b><br>
+I’m a <b>self-motivated cybersecurity enthusiast</b> 🔐 with a passion for <b>ethical hacking, networking, Linux (Kali & Parrot), and programming</b>.<br>
+I love <b>digging into systems, finding vulnerabilities, and building hands-on skills</b> through labs and real-world simulations.
+</p>
 
 ---
 
-## 💼 Experience
-**Network Security Analyst Intern – Redynox Security (Remote)**  
-- Network simulations in Cisco Packet Tracer  
-- Configured Windows Defender Firewall  
-- Traffic analysis using Wireshark  
+<h3 align="center">⚡ Skills & Tools</h3>
+
+<p align="center">
+<b>OS & Virtualization:</b> `Kali Linux` • `Parrot OS` • `VirtualBox` • `VMware` <br>
+<b>Networking:</b> `CCNA Basics` • `Cisco Packet Tracer` • `IP/TCP/UDP` <br>
+<b>Cybersecurity & Forensics:</b> `Wireshark` • `NMAP` • `Burp Suite` • `OSINT Tools` • `Digital Forensics` • `Web & Endpoint Security` <br>
+<b>Programming & Web:</b> `Python` • `C` • `SQL` • `Bash` • `HTML` • `CSS` • `JS` <br>
+<b>Soft Skills:</b> `Problem Solving` • `Research` • `Independent Learning` • `Leadership`
+</p>
 
 ---
 
-## 🏅 Certifications
-- **Google Cybersecurity** – Coursera (Aug 2025)  
-- **Ethical Hacking Essentials** – EC Council & Coursera  
-- **Jr. Cybersecurity Analyst** – Cisco NetAcad (2024)  
-- **Python Programming** – Coursera  
-- **Burp Suite Certification** – Web App Security  
-- **The Science of Well-Being** – Yale University  
+<h3 align="center">🎓 Education</h3>
+<p align="center">
+B.S in Computer Science – University of Peshawar (09/2024 – Present) <br>
+Intermediate in Computer Science – Superior Group of Colleges (08/2022 – 08/2024) <br>
+Matriculation (Science Group) – Oxford Grammar School (04/2020 – 04/2022)
+</p>
 
 ---
 
-## 🚀 Strengths
-- **Analytical Thinking:** Breaks down complex problems efficiently  
-- **Leadership & Teamwork:** Leads labs & group tasks with clarity  
-- **Technical Curiosity:** Explores systems, tools, and vulnerabilities  
+<h3 align="center">💼 Experience</h3>
+<p align="center">
+Network Security Analyst Intern – Redynox Security (Remote) <br>
+- Network simulations in Cisco Packet Tracer <br>
+- Configured Windows Defender Firewall <br>
+- Traffic analysis using Wireshark
+</p>
 
 ---
 
-## 📈 GitHub Stats
-
-![Shah Faisal GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula&count_private=true)  
+<h3 align="center">🏅 Certifications</h3>
+<p align="center">
+Google Cybersecurity – Coursera (Aug 2025) • Ethical Hacking Essentials – EC Council & Coursera • Jr. Cybersecurity Analyst – Cisco NetAcad (2024) <br>
+Python Programming – Coursera • Burp Suite Certification – Web App Security • The Science of Well-Being – Yale University
+</p>
 
 ---
 
-✨ Always **learning, experimenting, and hacking responsibly** 🔐
+<h3 align="center">🚀 Strengths</h3>
+<p align="center">
+- Analytical Thinking: Breaks down complex problems efficiently <br>
+- Leadership & Teamwork: Leads labs & group tasks with clarity <br>
+- Technical Curiosity: Explores systems, tools, and vulnerabilities
+</p>
+
+---
+
+<p align="center">
+![Shah Faisal GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+</p>
+
+<p align="center">✨ Always learning, experimenting, and hacking responsibly 🔐</p>
